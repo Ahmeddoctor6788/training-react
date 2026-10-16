@@ -1,0 +1,40 @@
+.about-section {
+    display: flex;
+    
+  
+}
+.info-card {
+    flex: 1;
+    padding: 60px 40px;
+    text-align: center;
+  color: aliceblue;
+background-color:#fb8516;
+
+ 
+}
+.info-card h2 {
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 52.8px;
+    margin-bottom: 20px;
+}
+.info-card p {
+    padding-left: 40px;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 36px;
+    margin-bottom: 30px;
+    max-width: 500px;
+}
+.info-card button {
+    padding: 12px 28px;
+    background: white;
+    color: #333;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+.info-card button:hover {
+    background-color: #259bca;
+}
