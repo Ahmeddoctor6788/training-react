@@ -48,6 +48,11 @@ font-weight: 600;
     padding: 16px 34px;
     border-radius: 6px;
     cursor: pointer;
+    transition: 0.3s;
+}
+.btn:hover {
+    color: #0000e6;
+     background: white;
 }
 .hero-img {
     width: 48%;
